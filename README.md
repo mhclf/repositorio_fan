@@ -1,4 +1,3 @@
 # curso_node_js
 
-
-teste de alteração
+Repositório contendo os arquivos de exemplo do curso de node.js
